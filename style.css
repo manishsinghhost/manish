@@ -1,0 +1,31 @@
+body{
+  background-color:#e3fdfd;
+  margin: 0;
+}
+
+  img {
+    border-radius: 50%;
+    width:150px;
+  }
+  hr{
+    background-color:white;
+    border-style: none;
+    height: 2px;
+
+  }
+  h1
+  {
+    color: #63b7af;
+    margin-top: 0;
+  }
+  h3
+  {
+    text-align: center;
+    color: #63b7af;
+  }
+  p{
+    color: #7d5a5a;
+  }
+a{
+  color: #63b7af;
+}
